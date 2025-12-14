@@ -7,3 +7,11 @@ Situs web Diary
 - Otorisasi pengguna
 - Transkrip ucapan
 - Desain UI/UX
+
+pustaka yang akan digunakan
+- flask
+
+refrensi yang berguna 
+- website orang lain
+
+  artikerl yg bakalan di gunain sebagai bahan: https://id.wikipedia.org/wiki/Iklim sama google
