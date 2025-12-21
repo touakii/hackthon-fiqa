@@ -15,3 +15,8 @@ refrensi yang berguna
 - website orang lain
 
   artikerl yg bakalan di gunain sebagai bahan: https://id.wikipedia.org/wiki/Iklim sama google
+
+daftar pengujian
+- fungsionalitas
+- interfaces
+- kinerja/performance
